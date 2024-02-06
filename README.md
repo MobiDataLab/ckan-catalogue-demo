@@ -1,6 +1,6 @@
 # MobiDataLab Reference Data Catalogue demonstrators
 
-MobiDataLab made available two metadata catalogues, CKAN and a GeoNetwork, which gathered more than 115k datasets from multiple data portals.
+MobiDataLab made available two metadata catalogues, [CKAN](https://ckan.mobidatalab.eu) and [GeoNetwork](https://geonetwork.mobidatalab.eu/GeoNetwork-4.0.5-0/srv/eng/catalog.search#/home), which gathered more than 115k datasets from multiple data portals.
 
 These datasets cover transport and mobility categories as well as other categories to enrich the mobility datasets in the context of the local challenges of the project stakeholders. Data was made discoverable, findable and accessible through these catalogues not only by providing the data sources of the datasets harvested but also by providing information about the different organizations offering open, premium and privileged data. 
 Both catalogues offer human-readable and machine-readable metadata by being accessible via an API and a platform. Both are interoperable and allow the reuse of datasets by mobility digital services like journey planners.
